@@ -26,3 +26,6 @@ body {
 }
 
 /* Step 6 code goest here */
+.card:nth-child(4):hover{
+  opacity: 0.1;
+}
